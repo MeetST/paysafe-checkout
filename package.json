@@ -1,0 +1,22 @@
+{
+  "name": "paysafe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "~1.18.3",
+    "bootstrap": "^4.5.3",
+    "dotenv": "^8.2.0",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "ngx-bootstrap": "^6.1.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
