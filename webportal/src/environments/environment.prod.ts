@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  baseUrl : "http://localhost:3111/api/",
+  baseUrl : "https://paysafe-roiim.herokuapp.com/api/",
 };
